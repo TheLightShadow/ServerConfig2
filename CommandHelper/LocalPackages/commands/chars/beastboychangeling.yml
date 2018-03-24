@@ -90,6 +90,7 @@ permissions:
   - ch.alias.normalsize
   - ch.alias.grow
   - powers.wallclimb
+  - powers.herotransform
 powers:
 - /effects
 - /items
@@ -97,6 +98,7 @@ powers:
 - /run <0-6>
 - /haste <0-6>
 - /disguise
+- /herotransform
 - /shrink
 - /normalsize
 - /grow
@@ -109,3 +111,5 @@ run: 6
 speech: Beast Boy is here to save the day!
 trail: [
   ]
+  transformations:
+- garfieldlogan
