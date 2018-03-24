@@ -1,0 +1,27 @@
+class: hawkhankhall
+costumes:
+- chatcolor: '&4'
+  name: §4H§8aw§4k§8(§4HH§8)
+  sig: 
+  val:
+effects:
+- /effect <plr> 5 9999 6 true
+items: [
+  ]
+maxHearts: 30
+permissions:
+  superherocity:
+  - essentials.fly
+  - ch.alias.carryplayer
+  - ch.alias.dropplayer
+powers:
+- /effects
+- /items
+- /fly
+- /carryplayer <player>
+- /dropplayer
+- /run <0-4>
+run: 6
+speech: Hawk!
+trail: [
+  ]
