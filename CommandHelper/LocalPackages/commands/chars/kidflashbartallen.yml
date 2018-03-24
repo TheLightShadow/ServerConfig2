@@ -1,0 +1,45 @@
+class: kidflashbartallen
+costumes:
+- chatcolor: '&e'
+  name: §eK§4i§ed §4F§el§4a§es§4h§e§8(§4B§eA§8)
+  sig:
+  val:
+effects: [
+  ]
+haste: 4
+items:
+- /give <plr> minecraft:iron_boots 1 8:30 4:30 name:&9W&1a&9ter_Ru&1nn&9ing_&4B&eoo&4ts
+permissions:
+  speedforce:
+  - ch.alias.powers
+  - ch.alias.speedforcebuffs
+  - ch.alias.speedforceteleport
+  - ch.alias.tp
+  - essentials.back
+  superherocity:
+  - ch.alias.carryplayer
+  - ch.alias.dropplayer
+  - powers.wallrun
+  - ch.alias.speedforceteleport
+  - essentials.tppos
+  - essentials.warps.speedforce
+powers:
+- /effects
+- /items
+- /warp speedforce
+- /back (In the speedforce)
+- /tp <player> (In the speedforce)
+- /speedforceteleport <playername>
+- /speedforcebuffs
+- /carryplayer <playername>
+- /dropplayer
+- /wallrun <on/off>
+- Look Up+Jump+Crouch to perform a wallrun.
+- /run 0-1 (In speedforce)
+- /run <0-9>
+- /haste <0-4>
+- /tppos <x> <y> <z>
+run: 9
+speech: Name's Bart Allen. After Wally West died I became Kid Flash.
+trail: [
+  ]
