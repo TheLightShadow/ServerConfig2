@@ -1,0 +1,19 @@
+class: dovedonhall
+costumes:
+- chatcolor: '&3'
+  name: §3D§fov§3e§8(§3DH§8)
+  sig: 
+  val:
+effects:
+- /effect <plr> 5 9999 4 true
+items: [
+  ]
+maxHearts: 20
+powers:
+- /effects
+- /items
+- /run <0-5>
+run: 5
+speech: Dove!
+trail: [
+  ]
