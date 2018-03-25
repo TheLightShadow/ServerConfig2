@@ -12,7 +12,6 @@ permissions:
   superherocity:
   - essentials.tppos
 powers:
-- /items
 - /tppos <x> <y> <z>
 speech: I am Adam Strange, I can teleport.
 trail: [
