@@ -1,0 +1,67 @@
+class: redarrowemikoqueen
+costumes:
+- chatcolor: '&4'
+  name: §4R§8e§4d A§8rr§4ow§8(§4EQ§8)
+  sig: 
+  val: 
+effects:
+- /effect <plr> 5 9999 1 true
+- /effect <plr> 10 9999 1 true
+- /effect <plr> 11 9999 1 true
+haste: 1
+items:
+- /give <plr> minecraft:bow 1 51:1 name:&4R&8e&4d A&8rr&4ow&8(&4EQ&8)'s_Bow
+jump: 2
+maxHearts: 20
+permissions:
+  superherocity:
+  - ch.alias.arrowspectral
+  - ch.alias.arrow
+  - ch.alias.arrowstrongregen
+  - ch.alias.arrowlongregen
+  - ch.alias.arrowstrongswift
+  - ch.alias.arrowlongswift
+  - ch.alias.arrowfireresist
+  - ch.alias.arrowhealing
+  - ch.alias.arrownightvision
+  - ch.alias.arrowstrongstrength
+  - ch.alias.arrowlongstrength
+  - ch.alias.arrowstrongleaping
+  - ch.alias.arrowlongleaping
+  - ch.alias.arrowinvisible
+  - ch.alias.arrowstrongpoison
+  - ch.alias.arrowlongpoison
+  - ch.alias.arrowweak
+  - ch.alias.arrowslow
+  - ch.alias.arrowharm
+  - ch.alias.arrowwaterbreathe
+  - ch.alias.arrowluck
+powers:
+- /effects
+- /items
+- /jump 0-2
+- /run 0-3
+- /haste 0-1
+- /arrow
+- /arrow regen
+- /arrow regen long
+- /arrow swiftness
+- /arrow swiftness long
+- /arrow fireresist
+- /arrow healing
+- /arrow nightvision
+- /arrow strength
+- /arrow strength long
+- /arrow leaping
+- /arrow leaping long
+- /arrow invisibility
+- /arrow poison
+- /arrow poison long
+- /arrow weakness
+- /arrow slowness
+- /arrow harming
+- /arrow waterbreathing
+- /arrow luck
+run: 3
+trail: [
+  ]
