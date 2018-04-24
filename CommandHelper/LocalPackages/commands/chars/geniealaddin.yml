@@ -24,6 +24,7 @@ permissions:
   - ch.alias.grow
   - ch.alias.shrink
   - ch.alias.normalsize
+  - essentials.fly
 powers:
 - /create <item> <quantity> <color>
 - /headdb
@@ -35,5 +36,6 @@ powers:
 - /normalsize
 - /carryplayer <player>
 - /dropplayer
+- /fly
 trail: [
   ]
