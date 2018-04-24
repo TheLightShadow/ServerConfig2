@@ -8,7 +8,7 @@ effects:
 - /effect <plr> 16 9999 1 true
 permissions: [
   ]
-powers: [
-  ]
+powers:
+- /effect
 trail: [
   ]
