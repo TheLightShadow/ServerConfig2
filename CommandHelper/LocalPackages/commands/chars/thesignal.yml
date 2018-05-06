@@ -9,6 +9,6 @@ effects:
 permissions: [
   ]
 powers:
-- /effect
+- /effects
 trail: [
   ]
